@@ -24,6 +24,8 @@ Deployment Diagram Illustrates system hardware and its software. Useful when a s
 - [`Timing Diagram`](https://www.lucidchart.com/pages/uml-timing-diagram) Like Sequence Diagrams, the behavior of objects in a given time frame are represented. If there is a single object, the diagram is simple. With more than one object, interactions of objects are shown during that particular time frame.
 - [`Use Case Diagram`](https://www.lucidchart.com/pages/uml-use-case-diagram) Represents a particular functionality of a system, created to illustrate how functionalities relate and their internal/external controllers (actors).
 
+![Relationship Notation](/img/relationship.png)
+
 ## With Regards, `Jakir`
 
 [![LinkedIn][linkedin-shield-jakir]][linkedin-url-jakir]
