@@ -2,6 +2,7 @@
 
 ### Unified Modeling Language (UML)
 It's a standardized modeling language used to `visualize`, `specify`, `construct`, and document the artifacts of a software system. It provides a set of graphical notations to create a variety of models for system development, whether for analysis, design, or implementation.
+![UML Diagram Types](/img/uml-diagram-types.png)
 
 #### [Types of UML diagrams](https://www.lucidchart.com/pages/tutorial/uml)
 UML uses elements and associates them in different ways to form diagrams that represent static, or structural aspects of a system, and behavioral diagrams, which capture the dynamic aspects of a system.
