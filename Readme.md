@@ -25,6 +25,7 @@ Deployment Diagram Illustrates system hardware and its software. Useful when a s
 - [`Use Case Diagram`](https://www.lucidchart.com/pages/uml-use-case-diagram) Represents a particular functionality of a system, created to illustrate how functionalities relate and their internal/external controllers (actors).
 
 **Relationship Notation**
+
 ![Relationship Notation](/img/relationship.png)
 
 ## With Regards, `Jakir`
